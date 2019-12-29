@@ -2,9 +2,11 @@
 templateKey: blog-post
 title: Escape from Santa's Jail
 date: 2018-12-17T00:04:00.000Z
-description: The beginning of an epic adventure.
+description: |+
+  The beginning of an epic adventure. 
+
 featuredpost: false
-featuredimage: /img/chemex.jpg
+featuredimage: /img/hue12-photography-2qzzubxw7we-unsplash.jpg
 tags:
   - ''
 ---
